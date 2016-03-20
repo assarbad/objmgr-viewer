@@ -19,7 +19,7 @@ version allows you to enumerate mailslots and pipes.
 License
 -------
 The units and the tool itself are released under Mozilla Public License Version
-1.1 and may alternatively be redistributed under LGPL. Make sure to see the file
-header in each individual file.
+1.1 and may alternatively be redistributed under LGPL. Make sure to read the
+file header in each individual file.
 
 .. _download: https://bitbucket.org/assarbad/objmgr-viewer/downloads
