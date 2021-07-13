@@ -1,7 +1,5 @@
-﻿=================================
- Object Manager Namespace Viewer
+﻿ Object Manager Namespace Viewer
 =================================
-:Author: Oliver Schneider
 
 About
 -----
@@ -26,5 +24,5 @@ The units and the tool itself are released under Mozilla Public License Version
 1.1 and may alternatively be redistributed under LGPL. Make sure to read the
 file header in each individual file.
 
-.. _download: https://bitbucket.org/assarbad/objmgr-viewer/downloads
-.. _ntobjx: https://bitbucket.org/assarbad/ntobjx
+.. _download: https://sourceforge.net/projects/objmgr-viewer/files/
+.. _ntobjx: https://sourceforge.net/projects/ntobjx/
